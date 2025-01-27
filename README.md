@@ -8,4 +8,4 @@ Steps:
 1. Install pygame if you haven't already:
 
        pip install pygame
-2. Copy the code below to create the game.
+2. Copy the code below to create the game. 
